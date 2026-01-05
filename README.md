@@ -7,7 +7,7 @@ The main objective was to deeply understand the mechanisms of ensemble learning,
 
 We compare the performances (Accuracy) after training both models on a classification dataset.
 
-| Modèle | Precision | execution time |
+| Model | Precision | execution time |
 | :--- | :--- | :--- | 
 | **scikit-learn** | 0.9649 | 0.369s | 
 | **RandomForestCustom** | 0.9649 | 0.434s |
